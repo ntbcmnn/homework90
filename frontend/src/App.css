@@ -1,0 +1,17 @@
+body {
+  background: url("./assets/bg.jpg") center center / cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.my-canvas {
+  margin-top: 50px;
+  border: 5px solid antiquewhite;
+  border-radius: 15px;
+  background-color: #1b452e;
+}
